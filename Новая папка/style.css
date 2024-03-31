@@ -1,0 +1,29 @@
+.tovar{
+    text-align: center;
+    background-color: black;
+    width: 1500px;
+}
+.tovar a{
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(51, 66, 36);
+    background-color: chartreuse;
+}
+.tovar p{
+    font-size: 30px;
+    color: blue;
+}
+.tovar h2{
+    font-size: 40px;
+    color:aqua;
+}
+.leave{
+background-color: black;
+width: 1500px;
+text-align: right;
+}
+.leave a{
+    color: coral;
+    background-color: darkblue;
+    font-size: 30px;
+}
